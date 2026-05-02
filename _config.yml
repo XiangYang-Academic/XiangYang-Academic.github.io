@@ -23,10 +23,10 @@ repository               : "XiangYang-Academic/XiangYang-Academic.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "xiangyang.JPG"
   name             : "Xiang Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a junior undergraduate student currently looking for a PhD position for the fall of 2027."
   location         : "Wuhan, China"
   employer         : "South-Central Minzu University"
   uri              : # URL
