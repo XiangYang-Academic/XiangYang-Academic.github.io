@@ -9,7 +9,8 @@ redirect_from:
 
 😊 About me
 ======
-I'm a third year undergraduate student from the [Pilot Program](https://www.scuec.edu.cn/rgsyb/) of [School of Computer Science (School of Artificial Intelligence)](https://www.scuec.edu.cn/jky/), [South-Central Minzu University](https://www.scuec.edu.cn). My research interest includes computer vision and machine learning, with a particular focus on unsupervised learning and clustering. I have published 2 papers at the top international AI conferences.
+I'm a third year undergraduate student from the [Pilot Program](https://www.scuec.edu.cn/rgsyb/) of [School of Computer Science (School of Artificial Intelligence)](https://www.scuec.edu.cn/jky/), [South-Central Minzu University](https://www.scuec.edu.cn). My research interest includes computer vision and machine learning, with a particular focus on unsupervised learning and clustering. I have published 2 papers at the top international AI conferences. **<span style="color: #850043;"> I am looking for a PhD position for 2027 Fall!</span>**
+
 
 🔥 News
 ======
