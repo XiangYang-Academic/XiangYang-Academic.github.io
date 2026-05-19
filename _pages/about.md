@@ -21,60 +21,13 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 ======
 **&dagger;: equal contributions; *: corresponding author**
 
-- [![IEEE-TPAMI 2024](https://img.shields.io/badge/IEEE--TPAMI-2024-pink)](https://ieeexplore.ieee.org/abstract/document/10617802) [UniMiSS+: Universal Medical Self-Supervised Learning From Cross-Dimensional Unpaired Data](https://ieeexplore.ieee.org/abstract/document/10617802), **Yutong Xie**, Jianpeng Zhang, Yong Xia, Qi Wu<sup>$\ast$</sup>. *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI). (Impact factor=20.8)* ***[Code](https://github.com/YtongXie/UniMiSS-code)***
+- [![IJCAI 2026](https://img.shields.io/badge/IJCAI-2026-pink)](https://ojs.aaai.org/index.php/AAAI/article/view/39286) [Robust Federated Hyperspectral Image Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/39286), **Xiang Yang**, hengzhong Zhu, Dayu Hu, Xiaowen Ma, Zihao Li, Wenxuan Tu, Taichun Zhou, Wenxin Zhang, Renxiang Guan. *International Joint Conference on Artificial Intelligence<strong>(IJCAI).*
 
-<div class="publications">
-<ol class="bibliography">
+- [![TCBB 2025](https://img.shields.io/badge/TCBB-2025-pink)](https://ieeexplore.ieee.org/document/11267275) [Single-Cell Multi-View Clustering via Community Detection With Unknown Number of Clusters](https://ieeexplore.ieee.org/document/11267275), Dayu Hu, **Renxiang Guan**, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, Xinwang Liu. *IEEE Transactions on Computational Biology and Bioinformatics (TCBB, CCF B).*
 
-<li>
-<div class="pub-row">
+- [![TKDE 2025](https://img.shields.io/badge/TKDE-2025-pink)](https://ieeexplore.ieee.org/document/11037321) [Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining](https://ieeexplore.ieee.org/document/11037321), **Renxiang Guan**, Tianrui Liu, Wenxuan Tu, Chang Tang, Wenhan Luo, Xinwang Liu. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF A).*
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/main.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">IJCAI</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39286">Robust Federated Hyperspectral Image Clustering</a></div>
-    <div class="author"><strong>Xiang Yang</strong>, hengzhong Zhu, Dayu Hu, Xiaowen Ma, Zihao Li, Wenxuan Tu, Taichun Zhou, Wenxin Zhang, Renxiang Guan</div>
-    <div class="periodical"><em>International Joint Conference on Artificial Intelligence<strong>(IJCAI)</strong>, 2026.</em></div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/TCBB.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TCBB</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/11267275">Single-Cell Multi-View Clustering via Community Detection With Unknown Number of Clusters</a></div>
-    <div class="author">Dayu Hu, <strong>Renxiang Guan</strong>, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, Xinwang Liu</div>
-    <div class="periodical"><em>IEEE Transactions on Computational Biology and Bioinformatics<strong>(TCBB, CCF B)</strong>, 2025.</em></div>
-  </div>
-</div>
-</li>
-
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/SEC-LSRM.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TKDE</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/11037321">Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining</a></div>
-    <div class="author"><strong>Renxiang Guan</strong>, Tianrui Liu, Wenxuan Tu, Chang Tang, Wenhan Luo, Xinwang Liu</div>
-    <div class="periodical"><em>IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE, CCF A)</strong>, 2025.</em></div>
-  </div>
-</div>
-</li>
-
-</ol>
+<br>
 <p style="margin: 0px 0px 40px;"><a href="https://scholar.google.com.hk/citations?user=V7ZiJtUAAAAJ&hl=zh-CN&oi=ao">See all publications</a></p>
 
 </div>
