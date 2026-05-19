@@ -19,7 +19,7 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 
 📝 Recent Publications
 ======
-**$\dagger$: equal contributions; $\ast$: corresponding author** 
+**&dagger;: equal contributions; *: corresponding author**
 
 <div class="publications">
 <ol class="bibliography">
@@ -29,7 +29,7 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/main.pdf" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">AAAI</abbr>
+    <abbr class="badge">IJCAI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
