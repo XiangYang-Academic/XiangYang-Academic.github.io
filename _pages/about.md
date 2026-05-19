@@ -21,25 +21,10 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 ======
 **&dagger;: equal contributions; *: corresponding author**
 
+- [![IEEE-TPAMI 2024](https://img.shields.io/badge/IEEE--TPAMI-2024-pink)](https://ieeexplore.ieee.org/abstract/document/10617802) [UniMiSS+: Universal Medical Self-Supervised Learning From Cross-Dimensional Unpaired Data](https://ieeexplore.ieee.org/abstract/document/10617802), **Yutong Xie**, Jianpeng Zhang, Yong Xia, Qi Wu<sup>$\ast$</sup>. *IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-TPAMI). (Impact factor=20.8)* ***[Code](https://github.com/YtongXie/UniMiSS-code)***
+
 <div class="publications">
 <ol class="bibliography">
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DARC.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DARC: Decoupled Asymmetric Reasoning Curriculum for LLM Evolution**
-
-Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yankai Lin<sup>†</sup>  
-<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
-
-
-[📓 **arXiv**](https://arxiv.org/abs/2601.13761)
-
-[🤗 **Huggingface**](https://huggingface.co/papers/2601.13761)
-
-[💻 **Github**](https://github.com/RUCBM/DARC)
-</div>
-</div>
 
 <li>
 <div class="pub-row">
