@@ -21,7 +21,7 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 ======
 **&dagger;: equal contributions; *: corresponding author**
 
-- [![IJCAI 2026](https://img.shields.io/badge/IJCAI-2026-pink)](https://ojs.aaai.org/index.php/AAAI/article/view/39286) [Robust Federated Hyperspectral Image Clustering](https://ojs.aaai.org/index.php/AAAI/article/view/39286), **Xiang Yang**, hengzhong Zhu, Dayu Hu, Xiaowen Ma, Zihao Li, Wenxuan Tu, Taichun Zhou, Wenxin Zhang, Renxiang Guan. *International Joint Conference on Artificial Intelligence<strong>(IJCAI).*
+- [![IJCAI 2026](https://img.shields.io/badge/IJCAI-2026-pink)](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf) [Robust Federated Hyperspectral Image Clustering](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf), **Xiang Yang**, hengzhong Zhu, Dayu Hu, Xiaowen Ma, Zihao Li, Wenxuan Tu, Taichun Zhou, Wenxin Zhang, Renxiang Guan*. *International Joint Conference on Artificial Intelligence<strong>(IJCAI).*
 
 - [![TCBB 2025](https://img.shields.io/badge/TCBB-2025-pink)](https://ieeexplore.ieee.org/document/11267275) [Single-Cell Multi-View Clustering via Community Detection With Unknown Number of Clusters](https://ieeexplore.ieee.org/document/11267275), Dayu Hu, **Renxiang Guan**, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, Xinwang Liu. *IEEE Transactions on Computational Biology and Bioinformatics (TCBB, CCF B).*
 
