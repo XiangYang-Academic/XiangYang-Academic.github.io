@@ -21,16 +21,12 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 ======
 **&dagger;: equal contributions; *: corresponding author**
 
-- [![IJCAI 2026](https://img.shields.io/badge/IJCAI-2026-pink)](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf) [Robust Federated Hyperspectral Image Clustering](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf), **Xiang Yang**, hengzhong Zhu, Dayu Hu, Xiaowen Ma, Zihao Li, Wenxuan Tu, Taichun Zhou, Wenxin Zhang, Renxiang Guan*. *International Joint Conference on Artificial Intelligence<strong>(IJCAI).*
+- [![IJCAI 2026](https://img.shields.io/badge/IJCAI-2026-pink)](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf) [Robust Federated Hyperspectral Image Clustering](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf), **Xiang Yang**, hengzhong Zhu, Dayu Hu, Xiaowen Ma, Zihao Li, Wenxuan Tu, Taichun Zhou, Wenxin Zhang, Renxiang Guan*. *International Joint Conference on Artificial Intelligence<strong> (IJCAI).*
 
-- [![TCBB 2025](https://img.shields.io/badge/TCBB-2025-pink)](https://ieeexplore.ieee.org/document/11267275) [Single-Cell Multi-View Clustering via Community Detection With Unknown Number of Clusters](https://ieeexplore.ieee.org/document/11267275), Dayu Hu, **Renxiang Guan**, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, Xinwang Liu. *IEEE Transactions on Computational Biology and Bioinformatics (TCBB, CCF B).*
-
-- [![TKDE 2025](https://img.shields.io/badge/TKDE-2025-pink)](https://ieeexplore.ieee.org/document/11037321) [Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining](https://ieeexplore.ieee.org/document/11037321), **Renxiang Guan**, Tianrui Liu, Wenxuan Tu, Chang Tang, Wenhan Luo, Xinwang Liu. *IEEE Transactions on Knowledge and Data Engineering (TKDE, CCF A).*
+- [![ICML 2026](https://img.shields.io/badge/ICML-2026-pink)](https://ieeexplore.ieee.org/document/11267275) [Federated Multi-view Clustering for Remote Sensing Data](https://ieeexplore.ieee.org/document/11267275), Renxiang Guan*, **Xiang Yang**, Hao Yu, Siwei Wang, Suyuan Liu, Wenjing Yang, Jun-Jie Huang, Ao Li, Xinwang Liu*, Yuhua Tang. *International Conference on Machine Learning (ICML).*
 
 <br>
-<p style="margin: 0px 0px 40px;"><a href="https://scholar.google.com.hk/citations?user=V7ZiJtUAAAAJ&hl=zh-CN&oi=ao">See all publications</a></p>
-
-</div>
+<p style="margin: 0px 0px 40px;"><a href="[https://scholar.google.com.hk/citations?user=V7ZiJtUAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AIqSsVvDhPUmmyqHhLGiGsafD3NFmor0P7A1AZzj6l6zZFnCIBKEEeAhBr78-ioa1wezUbxkNus_bi9fcThKvUm73zY&user=s9URAlYAAAAJ)">See all publications</a></p>
 
 🎓 Education
 ======
