@@ -19,8 +19,7 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 
 📝 Recent Publications
 ======
-
-<p style="margin: 25px 0px -25px;">(* indicates equal contribution, # indicates corresponding author)</p>
+**$\dagger$: equal contributions; $\ast$: corresponding author** 
 
 <div class="publications">
 <ol class="bibliography">
