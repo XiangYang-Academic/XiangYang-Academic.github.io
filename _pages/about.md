@@ -21,7 +21,7 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 ======
 **&dagger;: equal contributions; *: corresponding author**
 
-- [![IJCAI 2026](https://img.shields.io/badge/IJCAI-2026-pink)](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf) [Robust Federated Hyperspectral Image Clustering](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf), **Xiang Yang**, Hengzhong Zhu, Dayu Hu, Xiaowen Ma, Zihao Li, Wenxuan Tu, Taichun Zhou, Wenxin Zhang, Renxiang Guan<sup>*</sup>. *International Joint Conference on Artificial Intelligence (IJCAI).*
+- [![IJCAI 2026](https://img.shields.io/badge/IJCAI-2026-pink)](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf) [Robust Federated Hyperspectral Image Clustering](files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_.pdf), **Xiang Yang**, Hengzhong Zhu, Dayu Hu, Xiaowen Ma, Zihao Li, Wenxuan Tu, Taichun Zhou, Wenxin Zhang, Renxiang Guan<sup>\*</sup>. <em>International Joint Conference on Artificial Intelligence (IJCAI).</em>
 
 - ![ICML 2026](https://img.shields.io/badge/ICML-2026-pink) Federated Multi-view Clustering for Remote Sensing Data, Renxiang Guan<sup>*</sup>, **Xiang Yang**, Hao Yu, Siwei Wang, Suyuan Liu, Wenjing Yang, Jun-Jie Huang, Ao Li, Xinwang Liu<sup>*</sup>, Yuhua Tang. *International Conference on Machine Learning (ICML).*
 
