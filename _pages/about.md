@@ -24,6 +24,23 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 <div class="publications">
 <ol class="bibliography">
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DARC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DARC: Decoupled Asymmetric Reasoning Curriculum for LLM Evolution**
+
+Shengda Fan<sup>*</sup>, **Xuyan Ye<sup>*</sup>**, Yankai Lin<sup>†</sup>  
+<sup>*</sup> Equal contribution. <sup>†</sup> Corresponding author.
+
+
+[📓 **arXiv**](https://arxiv.org/abs/2601.13761)
+
+[🤗 **Huggingface**](https://huggingface.co/papers/2601.13761)
+
+[💻 **Github**](https://github.com/RUCBM/DARC)
+</div>
+</div>
+
 <li>
 <div class="pub-row">
 
