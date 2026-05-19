@@ -29,12 +29,12 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/publications/CG-MAE.png" class="teaser img-fluid z-depth-1">
+    <img src="files/Robust_Federated_Hyperspectral_Image_Clustering__IJCAI_2026/main.pdf" class="teaser img-fluid z-depth-1">
     <abbr class="badge">AAAI</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39286">Graph Masked Autoencoder for Multi-view Remote Sensing Data Clustering</a></div>
+    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39286">Robust Federated Hyperspectral Image Clustering</a></div>
     <div class="author"><strong>Renxiang Guan</strong>, Junhong Li, Siwei Wang, Tianrui Liu, Dayu Hu, Miaomiao Li, Xinwang Liu</div>
     <div class="periodical"><em>AAAI Conference on Artificial Intelligences<strong>(AAAI, CCF A)</strong>, 2026.</em></div>
   </div>
