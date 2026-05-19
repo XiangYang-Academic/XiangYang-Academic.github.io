@@ -19,25 +19,64 @@ Hi!👋 My name is Xiang Yang (杨翔). I'm a third year undergraduate student f
 
 📝 Recent Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<p style="margin: 25px 0px -25px;">(* indicates equal contribution, # indicates corresponding author)</p>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<div class="publications">
+<ol class="bibliography">
 
-**Markdown generator**
+<li>
+<div class="pub-row">
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/CG-MAE.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">AAAI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/39286">Graph Masked Autoencoder for Multi-view Remote Sensing Data Clustering</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Junhong Li, Siwei Wang, Tianrui Liu, Dayu Hu, Miaomiao Li, Xinwang Liu</div>
+    <div class="periodical"><em>AAAI Conference on Artificial Intelligences<strong>(AAAI, CCF A)</strong>, 2026.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/TCBB.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TCBB</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/11267275">Single-Cell Multi-View Clustering via Community Detection With Unknown Number of Clusters</a></div>
+    <div class="author">Dayu Hu, <strong>Renxiang Guan</strong>, Zhibin Dong, Ke Liang, Jun Wang, Siwei Wang, Xinwang Liu</div>
+    <div class="periodical"><em>IEEE Transactions on Computational Biology and Bioinformatics<strong>(TCBB, CCF B)</strong>, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/publications/SEC-LSRM.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TKDE</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/11037321">Sampling Enhanced Contrastive Multi-View Remote Sensing Data Clustering with Long-Short Range Information Mining</a></div>
+    <div class="author"><strong>Renxiang Guan</strong>, Tianrui Liu, Wenxuan Tu, Chang Tang, Wenhan Luo, Xinwang Liu</div>
+    <div class="periodical"><em>IEEE Transactions on Knowledge and Data Engineering <strong>(TKDE, CCF A)</strong>, 2025.</em></div>
+  </div>
+</div>
+</li>
+
+</ol>
+<p style="margin: 0px 0px 40px;"><a href="https://scholar.google.com.hk/citations?user=V7ZiJtUAAAAJ&hl=zh-CN&oi=ao">See all publications</a></p>
+
+</div>
 
 🎓 Education
 ======
